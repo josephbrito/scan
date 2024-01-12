@@ -2,7 +2,8 @@
 
 ## To use this globally do next steps:
 
-`chmod +x scan.sh`
-`mv scan.sh /usr/local/bin/custom-name-scan`
+<p>`chmod +x scan.sh`</p>
 
-`Usage: scan 192.168.0 - you must not pass the last 3 numbers`
+<p></p>`mv scan.sh /usr/local/bin/custom-name-scan`</p>
+
+<p>`Usage: scan 192.168.0 - you must not pass the last 3 numbers`</p>
